@@ -2,4 +2,4 @@
 
 export MASEN_VAR="tizzest"
 
-PS1="\e[0;31m[ !\! \e[m\e[1;32m\w\e[m\e[0;31m ]\e[m \e[0;31m\$\e[m "
+PS1="\e[0;31m[ $(hostname) \e[m\e[1;32m\w\e[m\e[0;31m ]\e[m \e[0;31m\$\e[m "
